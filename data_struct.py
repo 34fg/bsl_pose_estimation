@@ -11,6 +11,7 @@ data_path = os.path.join('Np_Data')
 mimics = np.array(['hello&bye','u_need_help','I_need_help','how_are_you','good','morning','afternoon','night','name'])
 # 15 videos for each mimic
 no_sequences = 15
+
 # Videos are going to be 30 frames in Length
 sequence_length = 30
 start_folder=0
