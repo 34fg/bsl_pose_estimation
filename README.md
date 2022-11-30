@@ -17,7 +17,7 @@
 This repo aims to create a British Sign Language detection algoritm with using MediaPipe Holistic pipeline to estimate mimic poses and train ML model with those mimics with using Long Short-Term Memory (LSTM) networks.
 
 
-##Dependicies
+##Dependicies##
 - mediapipe
 - matplotlib
 - opencv
