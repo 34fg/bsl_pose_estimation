@@ -14,7 +14,7 @@ import cv2
 import os
 
 
-data_path = os.path.join('Np_Data')
+data_path = os.path.join(r'C:\Users\Turgut\Desktop\WORK\Np_Data')
 
 mp_holistic = mp.solutions.holistic # Holistic model
 mp_drawing = mp.solutions.drawing_utils # Drawing utilities
@@ -54,7 +54,7 @@ def model_x():
 
 new_model=model_x()
 
-new_model.load_weights('my_model.h5')
+new_model.load_weights('bsl_pose_estimation\my_model.h5')
 new_model.summary()
 
 
