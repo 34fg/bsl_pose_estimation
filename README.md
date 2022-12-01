@@ -50,4 +50,5 @@ This will create our traing and test set and our Neural Network model with 6 lay
 
 Finally, the real_time_detection.py can be used to see the results in real time.
 
+
 ![Getting Started](./image/hello.png)
